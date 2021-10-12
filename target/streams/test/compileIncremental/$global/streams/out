@@ -1,0 +1,45 @@
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating C:\Coursera Scala Course\forcomp\forcomp\null\Coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.11\junit-4.11.jar: class org.junit.rules.Timeout now provided by C:\Coursera Scala Course\forcomp\Anagrams\null\Coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.11\junit-4.11.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating C:\Coursera Scala Course\forcomp\forcomp\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar: class scala.collection.immutable.Nil$ now provided by C:\Coursera Scala Course\forcomp\Anagrams\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe forcomp.Anagrams$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(notifyAll,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) forcomp.Anagrams$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) forcomp.Anagrams$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of forcomp.AnagramsSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(C:\Coursera Scala Course\forcomp\forcomp\src\test\scala\forcomp\AnagramsSuite.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(C:\Coursera Scala Course\forcomp\Anagrams\src\test\scala\forcomp\AnagramsSuite.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(C:\Coursera Scala Course\forcomp\forcomp\target\scala-2.13\test-classes\forcomp\AnagramsSuite.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set(NamesChange(forcomp.Anagrams$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(notifyAll,[Default]))))[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(C:\Coursera Scala Course\forcomp\forcomp\null\Coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.11\junit-4.11.jar, C:\Coursera Scala Course\forcomp\forcomp\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(forcomp.AnagramsSuite)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(C:\Coursera Scala Course\forcomp\forcomp\src\test\scala\forcomp\AnagramsSuite.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(C:\Coursera Scala Course\forcomp\forcomp\src\test\scala\forcomp\AnagramsSuite.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(forcomp.AnagramsSuite)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\Coursera Scala Course\forcomp\Anagrams\src\test\scala\forcomp\AnagramsSuite.scala, C:\Coursera Scala Course\forcomp\forcomp\src\test\scala\forcomp\AnagramsSuite.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 1 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to C:\Coursera Scala Course\forcomp\Anagrams\target\scala-2.13\test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 7572e78c for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Coursera Scala Course\forcomp\Anagrams\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Coursera Scala Course\forcomp\Anagrams\target\scala-2.13\test-classes;C:\Coursera Scala Course\forcomp\Anagrams\target\scala-2.13\classes;C:\Coursera Scala Course\forcomp\Anagrams\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Coursera Scala Course\forcomp\Anagrams\null\Coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.11\junit-4.11.jar;C:\Coursera Scala Course\forcomp\Anagrams\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\test-interface\1.0\test-interface-1.0.jar;C:\Coursera Scala Course\forcomp\Anagrams\null\Coursier\cache\v1\https\repo1.maven.org\maven2\com\novocode\junit-interface\0.11\junit-interface-0.11.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.6383884 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

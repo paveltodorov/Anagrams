@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="DESKTOP-958LQSN" name="forcomp.AnagramsSuite" tests="15" errors="0" failures="0" skipped="0" time="2.859" timestamp="2021-10-12T05:21:40">
+                     <properties>
+      <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/><property name="java.specification.version" value="11"/><property name="sun.cpu.isalist" value="amd64"/><property name="sun.jnu.encoding" value="Cp1251"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://adoptopenjdk.net/"/><property name="sun.boot.library.path" value="C:\Users\Aser\null\Coursier\cache\jvm\adopt@1.11.0-11\bin"/><property name="sun.java.command" value="xsbt.boot.Boot"/><property name="jdk.debug" value="release"/><property name="sun.stderr.encoding" value="cp866"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2021-04-20"/><property name="java.home" value="C:\Users\Aser\null\Coursier\cache\jvm\adopt@1.11.0-11"/><property name="file.separator" value="\"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
+"/><property name="sun.stdout.encoding" value="cp866"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="user.script" value=""/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.11+9"/><property name="user.name" value="Aser"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="C:\Users\Aser\AppData\Local\Temp\jna-2050175\jna16514475411512581992.dll"/><property name="java.vendor.version" value="AdoptOpenJDK-11.0.11+9"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="C:\Users\Aser\AppData\Local\Temp\"/><property name="java.version" value="11.0.11"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/><property name="sun.os.patch.level" value=""/><property name="java.library.path" value="C:\Users\Aser\null\Coursier\cache\jvm\adopt@1.11.0-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Aser\null\Coursier\cache\jvm\adopt@1.11.0-11\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Git\cmd;C:\Program Files (x86)\sbt\bin;C:\Users\Aser\AppData\Local\Microsoft\WindowsApps;;C:\Users\Aser\null\Coursier\cache\jvm\adopt@1.11.0-11\bin;C:\Users\Aser\null\Coursier\data\bin;C:\Users\Aser\AppData\Local\Programs\Microsoft VS Code\bin;."/><property name="java.vendor" value="AdoptOpenJDK"/><property name="scala.ext.dirs" value="C:\Users\Aser\.sbt\1.0\java9-rt-ext-adoptopenjdk_11_0_11"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.desktop" value="windows"/><property name="java.class.path" value="C:\Program Files (x86)\sbt\\bin\sbt-launch.jar"/><property name="java.vm.vendor" value="AdoptOpenJDK"/><property name="user.variant" value=""/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Europe/Helsinki"/><property name="os.name" value="Windows 10"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="BG"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="C:\Users\Aser"/><property name="user.language" value="bg"/><property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=";"/><property name="os.version" value="10.0"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues"/><property name="user.dir" value="C:\Coursera Scala Course\forcomp\Anagrams"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode"/><property name="java.vm.version" value="11.0.11+9"/><property name="java.class.version" value="55.0"/>
+    </properties>
+                     <testcase classname="forcomp.AnagramsSuite" name="get: eat (10pts)" time="1.979">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="sentenceOccurrences: abcd e (5pts)" time="0.009">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="wordAnagrams player (2pts)" time="0.007">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="combinations: [] (8pts)" time="0.009">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="sentence anagrams: Linux rulez (10pts)" time="0.816">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="subtract: larrrd - r (10pts)" time="0.007">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="subtract: lard - r (10pts)" time="0.002">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="wordAnagrams married (2pts)" time="0.005">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="sentenceOccurrences: abcd b abe (5pts)" time="0.004">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="sentence anagrams: [] (10pts)" time="0.003">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="wordOccurrences: Robert (3pts)" time="0.005">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="combinations: abba (8pts)" time="0.003">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="wordOccurrences: abcd (3pts)" time="0.004">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="sentenceOccurrences: abcd d (5pts)" time="0.005">
+                                                 
+                                               </testcase><testcase classname="forcomp.AnagramsSuite" name="subtract: abc - abd (10pts)" time="0.001">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>
